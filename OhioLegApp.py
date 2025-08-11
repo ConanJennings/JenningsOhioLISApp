@@ -19,7 +19,7 @@ def form():
             flash("Title is required.")
 
         if not name or not title:
-            return render_template("form.html")
+            return render_template("entry.html")
 
         entry = {"name": name, "age": age, "title": title, "hometown": hometown}
         submissions.append(entry)
