@@ -10,3 +10,8 @@ In order to run the application:
 3) pip install -r requirements.txt from a command prompt in the file location
 4) run OhioLegApp.py
 5) navigate to http://127.0.0.1:5000/ in your browser
+
+
+Video Example:
+https://github.com/user-attachments/assets/414126ad-39bb-4ef2-83ba-d42edf91a37c
+
