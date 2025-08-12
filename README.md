@@ -1,8 +1,9 @@
 Data Entry Web App:
+
 A python web app for collecting form entries and displaying valid collections.
 Entry form takes in Name (required), Age, Title (Required) and Hometown.
-Will display error mession on submission if required fields are missing.
-If all fields are valid with show a page of the most recent submission as well as a table of all previous submissions.
+Application will display error message on submission if required fields are missing.
+If all fields are valid with it will display a page of the most recent submission as well as a table of all previous submissions.
 
 In order to run the application:
 1) run: git clone https://github.com/ConanJennings/JenningsOhioLISApp
