@@ -7,6 +7,13 @@ If all fields are valid with show a page of the most recent submission as well a
 In order to run the application:
 1) run: git clone https://github.com/ConanJennings/JenningsOhioLISApp
 2) ensure python is installed on your machine
-3) pip install flask
+3) pip install -r requirements.txt from a command prompt in the file location
 4) run OhioLegApp.py
 5) navigate to http://127.0.0.1:5000/ in your browser
+
+
+Video Example:
+https://github.com/user-attachments/assets/19377054-1421-4ef8-8190-6bce53403118
+
+
+
